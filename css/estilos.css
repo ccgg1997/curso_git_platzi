@@ -3,3 +3,9 @@ body{
     font-family: 'Segoe UI';
     color: blueviolet;
 }
+
+#cabecera{
+    background-color: #cb2727;
+    padding: 20px;
+    margin-bottom: 20px;
+}
