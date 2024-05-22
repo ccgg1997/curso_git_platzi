@@ -1,11 +1,11 @@
 body{
     text-align: center;
     font-family: 'Arial';
-    color: rgb(195, 226, 43);
+    color: rgb(13, 20, 227);
 }
 
 #cabecera{
-    background-color: #9cd7b6;
+    background-color: #00fc6d;
     padding: 20px;
     margin-bottom: 20px;
 }
